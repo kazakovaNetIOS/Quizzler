@@ -17,7 +17,6 @@
 		FFFC6037229E6EC7005C8E78 /* QuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFFC6036229E6EC7005C8E78 /* QuestionBank.swift */; };
 		FFFC603C229EC58B005C8E78 /* ProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = FFFC603A229EC58B005C8E78 /* ProgressHUD.m */; };
 		FFFC603D229EC58B005C8E78 /* ProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = FFFC603B229EC58B005C8E78 /* ProgressHUD.bundle */; };
-		FFFC603F229EC90E005C8E78 /* .gitattributes in Resources */ = {isa = PBXBuildFile; fileRef = FFFC603E229EC90E005C8E78 /* .gitattributes */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,7 +34,6 @@
 		FFFC6039229EC58B005C8E78 /* ProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgressHUD.h; sourceTree = "<group>"; };
 		FFFC603A229EC58B005C8E78 /* ProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgressHUD.m; sourceTree = "<group>"; };
 		FFFC603B229EC58B005C8E78 /* ProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ProgressHUD.bundle; sourceTree = "<group>"; };
-		FFFC603E229EC90E005C8E78 /* .gitattributes */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitattributes; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +50,6 @@
 		633646B01B8C657400FF45E2 = {
 			isa = PBXGroup;
 			children = (
-				FFFC603E229EC90E005C8E78 /* .gitattributes */,
 				AD6F1CCB20EBCFF600198C34 /* README.md */,
 				633646BB1B8C657400FF45E2 /* Quizzler */,
 				633646BA1B8C657400FF45E2 /* Products */,
@@ -178,7 +175,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADEB04ED1FBDFEAA00026359 /* Main.storyboard in Resources */,
-				FFFC603F229EC90E005C8E78 /* .gitattributes in Resources */,
 				633646C91B8C657400FF45E2 /* LaunchScreen.xib in Resources */,
 				AD6F1CCC20EBCFF600198C34 /* README.md in Resources */,
 				FFFC603D229EC58B005C8E78 /* ProgressHUD.bundle in Resources */,
